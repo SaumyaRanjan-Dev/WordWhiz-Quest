@@ -24,4 +24,4 @@ In **WordWhiz Quest**, the player must solve a series of word puzzles. For each 
 6. Your final score will be displayed at the end of the game.
 
 ## Contributing
-Contributions are welcome! If you have any suggestions or improvements, feel free to create a pull request or open an issue.
+Contributions are most welcome! If you have any suggestions or improvements, feel free to create a pull request or open an issue.
